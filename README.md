@@ -3,7 +3,14 @@
 ## Comprehensive Feature Set
 
 ### AI Chat Bot
-Leverage our AI Chat Bot, designed to handle crypto-related queries like the value of crypto and market data using Gemini API and CoinGecko API for real-time data.
+Leverage our AI Chat Bot, designed to handle crypto-related queri![Screenshot (24)](https://github.com/user-attachments/assets/702dd43d-def6-4663-866e-6fae4ab55cc2)
+![Screenshot (25)](https://github.com/user-attachments/assets/22e88408-3dc2-4d17-b33b-eb9854d2a90d)
+![Screenshot (26)](https://github.com/user-attachments/assets/8f92f6e5-d2c9-4d9c-9b8c-dfdbbca17d07)
+![Screenshot (27)](https://github.com/user-attachments/assets/5abd63aa-7fe5-4c61-b3df-b39611cc89ff)
+![Screenshot (28)](https://github.com/user-attachments/assets/89e8ee3b-9b4b-43f9-a6d3-fafe21e46759)
+![Screenshot (29)](https://github.com/user-attachments/assets/f55e94af-901e-4f13-9a2c-87f2680d2add)
+![Screenshot (30)](https://github.com/user-attachments/assets/60ee1713-df95-4566-8357-8178119bb97a)
+es like the value of crypto and market data using Gemini API and CoinGecko API for real-time data.
 
 ### Buy & Sell Crypto
 Facilitate smooth crypto transactions with a user-friendly buy and sell interface, supporting a wide array of cryptocurrencies.
